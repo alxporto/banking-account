@@ -1,18 +1,48 @@
-## Getting Started
+<h1>
+    <a href="https://www.dio.me/">
+     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+    <span>Simulating a banking account through the terminal/console</span>
+</h1>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Repository developed for educational purposes, providing a challenge for the course **Simulating the Banking Account Through the Terminal/Console** from [Digital Innovation One](https://www.dio.me/).
 
-## Folder Structure
+[![Link do Curso](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/project/desafio-banco-terminal/learning/87b610ba-16af-4c26-9b9d-9b7a0db493d5?back=/track/santander-2024-backend-com-java&tab=undefined&moduleId=undefined)
+[![Link do Curso](https://img.shields.io/badge/Acesse%20o%20Curso%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/project/desafio-banco-terminal/learning/87b610ba-16af-4c26-9b9d-9b7a0db493d5?back=/track/santander-2024-backend-com-java&tab=undefined&moduleId=undefined) 
 
-The workspace contains two folders by default, where:
+## Objective
+Challenge of practicing Java syntax in the terminal/console.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Tools
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/index.html)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/en)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Instructor
+<table>
+  <tr>
+    <td>
+      <img width="80px" align="center" src="https://avatars.githubusercontent.com/u/80013043?v=4"/>
+    </td>
+    <td align="left">
+      <a href="https://github.com/elidianaandrade">
+        <span><b>Gleyson Sampaio</b></span>
+      </a>
+      <br>
+      <span>Instructor, Java</span>
+    </td>
+  </tr>
+</table>
 
-## Dependency Management
+## References
+- [GIT. Documentation](https://git-scm.com/doc)
+- [JAVA. Documentation](https://docs.oracle.com/en/java/)
+- [OPENJDK. Documentation](https://openjdk.org/guide/)
+- [JAVADOC HOME PAGE. How to Write Doc Comments for the Javadoc Tool](https://www.oracle.com/br/technical-resources/articles/java/javadoc-tool.html)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+##
+<div align="center">
+
+[![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
+
+</div>
