@@ -1,6 +1,6 @@
 <h1>
     <a href="https://web.dio.me/track/7da9882f-2f0d-4f4d-b997-f300ce50f9f5">
-    <img align="left" width="55px" src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png"></a>
+    <img align="center" width="55px" src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png"></a>
     <span>Simulating a banking account through the terminal/console</span>
 </h1>
 
