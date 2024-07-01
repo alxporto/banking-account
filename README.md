@@ -10,7 +10,7 @@ Repository developed for educational purposes, providing a challenge for the cou
 [![Link do Curso](https://img.shields.io/badge/Acesse%20o%20Curso%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/project/desafio-banco-terminal/learning/87b610ba-16af-4c26-9b9d-9b7a0db493d5?back=/track/santander-2024-backend-com-java&tab=undefined&moduleId=undefined) 
 
 ## Objective
-Challenge of practicing Java syntax in the terminal/console.
+Challenge of the practice of the Java syntax in the terminal/console.
 
 ## Tools
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/index.html)
