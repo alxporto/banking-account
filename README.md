@@ -4,7 +4,7 @@
     <span>Simulating a banking account through the terminal/console</span>
 </h1>
 
-Repository developed for educational purposes, providing a challenge for the course **Simulating the Banking Account Through the Terminal/Console** from [Bootcamp Santander 2024 - Backend com Java](https://web.dio.me/track/7da9882f-2f0d-4f4d-b997-f300ce50f9f5).
+Repository developed for educational purposes, for a challenge **Simulating the Banking Account Through the Terminal/Console** from [Bootcamp Santander 2024 - Backend com Java](https://web.dio.me/track/7da9882f-2f0d-4f4d-b997-f300ce50f9f5).
 
 [![Link do Curso](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/project/desafio-banco-terminal/learning/87b610ba-16af-4c26-9b9d-9b7a0db493d5?back=/track/santander-2024-backend-com-java&tab=undefined&moduleId=undefined)
 [![Link do Curso](https://img.shields.io/badge/Acesse%20o%20Curso%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/project/desafio-banco-terminal/learning/87b610ba-16af-4c26-9b9d-9b7a0db493d5?back=/track/santander-2024-backend-com-java&tab=undefined&moduleId=undefined) 
